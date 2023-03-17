@@ -1,6 +1,6 @@
-# pacmen factory code sample
+# Pacmen Factory Code Sample
 
-Factory for making pacmen
+**Factory for making pacmen**
 
 This is a sample of an exercise done during the MIT Professional Certificate in Coding.
 
@@ -12,6 +12,6 @@ to position the new pacman image and add it to the "game" div. It is then added 
 You also need to make each pacman bounce off any wall it hits. 
 Start by getting at least one pacman positioned and viewable. 
 
-<img src="PacMan1.png">
+<img src="images/PacMan1.png">
 
-See the <a href="license.md">LICENSE</a> file for license rights and limitations (MIT).
+See the <a href="/license.md">LICENSE</a> file for license rights and limitations (MIT).
