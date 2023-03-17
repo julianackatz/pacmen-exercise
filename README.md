@@ -12,6 +12,6 @@ to position the new pacman image and add it to the "game" div. It is then added 
 You also need to make each pacman bounce off any wall it hits. 
 Start by getting at least one pacman positioned and viewable. 
 
-<img src="images/PacMan1.png">
+<img src="images/pacmen-final.png">
 
 See the <a href="/license.md">LICENSE</a> file for license rights and limitations (MIT).
