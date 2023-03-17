@@ -1,16 +1,16 @@
 # Pacmen Factory Code Sample
 
-**Factory for making pacmen**
+**Intro**
 
 This is a sample of an exercise done during the MIT Professional Certificate in Coding.
 
 The professor provided us with an initial code and this is the result.
 
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+**Instructions for making pacmen animation**
+
+When button "Add PacMan" is pressed a pacman will show up on the screen. You can add as many as you wish. 
+
+Next, you click "Start Game" and you will see pacman bouncing off the walls of the browser. 
 
 <img src="images/pacmen-final.png">
 
